@@ -1,2 +1,3 @@
-##DSM usando versionamento GIT
-##Teste de escrita em VI
+##DSM USANDO VERSIONAMENTO GIT
+
+Arquivo Teste Para Escritas Em Vi
